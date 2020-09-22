@@ -9,6 +9,8 @@
 
 .authorimage{
   max-height:100%;
+  
+
 }
 
 .answer {
@@ -22,4 +24,9 @@
 
 .answer:hover{
   background-color:#D0E3F0;
+}
+
+.center{
+  justify-content: center;
+  display:flex;
 }
